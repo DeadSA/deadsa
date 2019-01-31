@@ -1,6 +1,6 @@
 # general configuration
-url: http://excentris.net
-baseurl: ''
+url: https://deadsa.github.io/deadsa/
+baseurl: 'deadsa.github.io/deadsa/'
 
 # compass configuration
 compass:
