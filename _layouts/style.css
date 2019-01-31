@@ -1,3 +1,0 @@
-{% include deadsa/css/bootstrap.min.css %}
-{% include deadsa/css/agency.css %}
-{{ content }}
