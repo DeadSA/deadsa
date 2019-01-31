@@ -1,6 +1,6 @@
 # general configuration
 url: https://deadsa.github.io/deadsa/
-baseurl: 'deadsa.github.io/deadsa/'
+baseurl: 'https://deadsa.github.io/deadsa/'
 
 # compass configuration
 compass:
