@@ -1,3 +1,25 @@
+.header {
+  border: 2.5px outset transparent;
+  background-color: ;
+  text-align: center;
+}
+
+
+.mydivdude {
+  background-image: url(resources/acid.gif);
+    height: 400px;
+    width: 100%;
+  border: 2.5px outset red;
+  ext-align: left;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 body {
 	background-image: url(/cloudsdude.jpg);
 }
@@ -33,24 +55,3 @@ h2 {
     100%{color: purple;}
 
 
-.header {
-  border: 2.5px outset transparent;
-  background-color: ;
-  text-align: center;
-}
-
-
-.mydivdude {
-  background-image: url(resources/acid.gif);
-    height: 400px;
-    width: 100%;
-  border: 2.5px outset red;
-  text-align: left;
-}
-
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
