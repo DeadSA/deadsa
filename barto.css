@@ -6,13 +6,13 @@ h1 {
 	font-size: large
   text-transform: uppercase;
 	text-align: center;
-	animation: blinkingText 1s infinite;
+	animation: blinkingText 8s infinite;
 }
 
 h2 {
   text-transform: uppercase;
   text-align: center;
-  animation: blinkingTextTwo 1s infinite;
+  animation: blinkingTextTwo 4.5s infinite;
 }
 
 @keyframes blinkingText{
