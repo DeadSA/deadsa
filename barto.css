@@ -16,3 +16,9 @@ h1 {
     80%{color: yellow;}
 		100%{color: green;}
 }
+
+.mydivdude {
+  border: 5px outset red;
+  background-color: lightblue;
+  text-align: center;
+}
