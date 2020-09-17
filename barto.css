@@ -8,7 +8,7 @@
 .mydivdude {
   background-image: url(resources/acid.gif);
     height: 100px;
-    width: 100%;
+    width: 600%;
   border: 2.5px outset red;
   ext-align: left;
 }
