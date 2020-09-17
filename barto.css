@@ -37,6 +37,13 @@ h2 {
   animation: blinkingTextTwo 4.5s infinite;
 }
 
+h3 {
+  font-size: small
+  text-transform: uppercase;
+  text-align: center;
+  animation: blinkingTextThree 9.5s infinite;
+}
+
 @keyframes blinkingText{
     0%{color: red;}
     20%{color: pink;}
@@ -53,5 +60,11 @@ h2 {
     60%{color: red;}
     80%{color: pink;}
     100%{color: purple;}
+  }
 
-
+@keyframes blinkingTextThree{
+    0%{color: red;}
+    40%{color: purple;}
+    60%{color: red;}
+    100%{color: purple;}
+}
