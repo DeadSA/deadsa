@@ -4,6 +4,13 @@
   text-align: center;
 }
 
+.white {
+   background-color: white opacity: 0.5;
+    height: 100%;
+    width: 60%;
+  border: 2.5px outset transparent;
+  text-align: left;
+}
 
 .mydivdude {
   background-image: url(resources/acid.gif);
@@ -20,13 +27,7 @@
   width: 50%;
 }
 
-.white {
-   background-color: white opacity: 0.5;
-    height: 100%;
-    width: 60%;
-  border: 2.5px outset transparent;
-  text-align: left;
-}
+
 
 body {
 	background-image: url(/cloudsdude.jpg);
