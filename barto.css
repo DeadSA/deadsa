@@ -41,10 +41,9 @@ h2 {
 
 
 .mydivdude {
-  background-image: url("/resources/acid.gif")
-  border: 2.5px outset white;
+  background-image: url("/resources/acid.gif");
+  border: 2.5px outset red;
   text-align: left;
-  ;
 }
 
 .center {
