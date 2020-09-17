@@ -10,7 +10,7 @@
     height: 100px;
     width: 60%;
   border: 2.5px outset transparent;
-  ext-align: left;
+  text-align: left;
 }
 
 .center {
@@ -18,6 +18,14 @@
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+
+.white {
+   background-color: white opacity: 0.5;
+    height: 100%;
+    width: 60%;
+  border: 2.5px outset transparent;
+  text-align: left;
 }
 
 body {
@@ -42,6 +50,9 @@ h3 {
   color:black;
   text-transform: uppercase;
   text-align: left;
+}
+
+
 }
 
 @keyframes blinkingText{
