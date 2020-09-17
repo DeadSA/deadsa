@@ -9,7 +9,7 @@
   background-image: url(resources/acid.gif);
     height: 100px;
     width: 60%;
-  border: 2.5px outset red;
+  border: 2.5px outset transparent;
   ext-align: left;
 }
 
