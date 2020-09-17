@@ -17,6 +17,14 @@ h1 {
 		100%{color: green;}
 }
 
+
+.header {
+  border: 2.5px outset transparent;
+  background-color: ;
+  text-align: center;
+}
+
+
 .mydivdude {
   border: 2.5px outset white;
   background-color: ;
